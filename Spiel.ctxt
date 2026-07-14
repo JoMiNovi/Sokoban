@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Spiel
+comment0.text=\n\ Klasse\ Spiel\ zur\ Umsetzung\ eines\ Mini-Projekts\n\ \n\ @author\ (Ihr\ Name)\ \n\ @version\ (eine\ Versionsnummer\ oder\ ein\ Datum)\n
+comment1.params=
+comment1.target=Spiel()
+comment1.text=\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ Spiel\:\n\ initialisiert\ die\ Attribute\n
+comment2.params=x\ y\ anzahl
+comment2.target=void\ MausGeklickt(int,\ int,\ int)
+comment2.text=\n\ Methode\ MausGeklickt\n\ \n\ @param\ x\ x-Position\ des\ Klicks\ in\ Pixel\n\ @param\ y\ y-Position\ des\ Klicks\ in\ Pixel\n\ @param\ anzahl\ Klickanzahl,\ hier\ nicht\ relevant\n
+comment3.params=
+comment3.target=void\ AnzeigeAktualisieren()
+comment3.text=\n\ Zeichnet\ abh\u00E4ngig\ von\ den\ Werten\ der\ Attribute\ neu\n\n
+numComments=4
