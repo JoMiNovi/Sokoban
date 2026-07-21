@@ -11,6 +11,12 @@ public class Spiel extends Ereignisbehandlung
     /**
      * Notiere hier nötige Attribute.
      */
+    String spielfeld;
+    int höhe;
+    int breite;
+    int positionX;
+    int positionY;
+    
 
     /**
      * Konstruktor für Objekte der Klasse Spiel:
@@ -18,7 +24,10 @@ public class Spiel extends Ereignisbehandlung
      */
     public Spiel()
     {
-        //hier ergänzen
+         int positionX = 10;
+         int posotionY = 10;
+         int höhe = 200;
+         int breite = 200;
     }
 
     /**
@@ -40,7 +49,9 @@ public class Spiel extends Ereignisbehandlung
      */
     void AnzeigeAktualisieren()
     {
-        //hier ergänzen
+        {
+          
+        }
     }
 
 }
