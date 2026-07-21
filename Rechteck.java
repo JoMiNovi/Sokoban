@@ -2,7 +2,7 @@
 /**
  * Wrapperklasse für ein Rechteck auf der Zeichenfläche.
  * 
- * @author Albert Wiedemann 
+ * @author Albert Wiedemann .
  * @version 1.0
  */
 public class Rechteck
