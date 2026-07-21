@@ -11,11 +11,11 @@ public class Spiel extends Ereignisbehandlung
     /**
      * Notiere hier nötige Attribute.
      */
-    String spielfeld;
     int höhe;
     int breite;
     int positionX;
     int positionY;
+    private ArrayList<Character> spielfeld;
     
 
     /**
@@ -24,10 +24,17 @@ public class Spiel extends Ereignisbehandlung
      */
     public Spiel()
     {
-         int positionX = 10;
-         int posotionY = 10;
-         int höhe = 200;
-         int breite = 200;
+         spielfeld = new ArrayList<Character>();
+        
+        int spielerX = 1;
+         int spielerY = 1;
+         int[] kisteX = {3};
+         int[] kisteY = {2};
+         int[] zielX = {5};
+         int[] zielY = {2};
+         
+             
+         
     }
 
     /**
