@@ -49,7 +49,6 @@ public class Spiel extends Ereignisbehandlung
      */
     void AnzeigeAktualisieren()
     {
-        if()
         {
           
         }
